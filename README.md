@@ -28,11 +28,11 @@
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedkadam&theme=radical&show_icons=true&locale=en&layout=compact" alt="vedkadam" />
 </p>
-
+<br/>    <br/>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedkadam&theme=radical&show_icons=true&locale=en" alt="vedkadam" />
 </p>
-
+<br/>    <br/>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedkadam&theme=radical" alt="vedkadam" />
 </p>
