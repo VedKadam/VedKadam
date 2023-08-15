@@ -1,8 +1,4 @@
-<div align="center" style="background-color: black; color: blue;">
-    <a href="https://github.com/DenverCoder1">
-        <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vedant Kadam" />
-    </a>
-</div>
+
 
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Vedant+Kadam;Full+Stack+Software+Developer;Welcome+to+my+yard" alt="Typing SVG" /></a>
