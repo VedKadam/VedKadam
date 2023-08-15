@@ -1,18 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: black;
+  color: blue;
+  font-size: 16px; /* You can adjust the font size as needed */
+}
+</style>
+</head>
+<body>
+
 <p align="center">
 <a href="https://github.com/DenverCoder1">
-    <img src="" alt="Vedant Kadam" /></a>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vedant Kadam" /></a>
 </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hello,+This+is+Vedant+Kadam+of+text;Second+line+of+text"/></a>
 </p>
 
+<p align="center">
+- 🌱 I’m currently learning <strong>Django and Machine Learning</strong>
+</p>
 
-- 🌱 I’m currently learning **Django and Machine Learning**
+<p align="center">
+- 📫 How to reach me <strong>testerved52@gmail.com</strong>
+</p>
 
-- 📫 How to reach me **testerved52@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vedkadam05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vedkadam05/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/kvedant451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kvedant451" height="30" width="40" /></a>
 </p>
@@ -25,4 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedkadam&show_icons=true&locale=en" alt="vedkadam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedkadam&" alt="vedkadam" /></p>
+
+</body>
+</html>
 
