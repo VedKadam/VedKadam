@@ -1,8 +1,11 @@
+<p align="center">
+<a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vedant Kadam" /></a>
+</p>
+
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hello,+This is Vedant Kadam+of+text;Second+line+of+text"/></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=You+are+using+dark+mode&color=FFFFFF" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=You+are+using+light+mode&color=000000" />
-</picture>
+</p>
 
 - 🌱 I’m currently learning **Django and Machine Learning**
 
