@@ -4,11 +4,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=3BBDEA&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Vedant+Kadam;Full+Stack+Software+Developer;Welcome+to+my+yard" alt="Typing SVG" /></a>
 </h1>
 
-<div align="center" style="background-color: black; color: blue; font-size: 20px;">
+<div align="left" style="background-color: black; color: blue; font-size: 20px;">
     🌱 I’m currently learning **Django and Machine Learning**
 </div>
 
-<div align="center" style="background-color: black; color: blue; font-size: 20px;">
+<div align="left" style="background-color: black; color: blue; font-size: 20px;">
     📫 How to reach me **testerved52@gmail.com**
 </div>
 
