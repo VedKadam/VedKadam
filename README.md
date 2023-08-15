@@ -1,7 +1,5 @@
-<h1 align="center">">Greetings 👋, I'm Vedant Kadam</h1>
+<h1 align="center">Greetings 👋, I'm Vedant Kadam</h1>
 <h3 align="center">Recent graduate with a thirst for knowledge and a passion for innovation. Ready to embark on an exciting career journey!</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedkadam" alt="vedkadam" /></a> </p>
 
 - 🌱 I’m currently learning **Django and Machine Learning**
 
