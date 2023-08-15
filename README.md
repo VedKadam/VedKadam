@@ -1,5 +1,8 @@
-<h1 align="center">Greetings 👋, I'm Vedant Kadam</h1>
-<h3 align="center">Recent graduate with a thirst for knowledge and a passion for innovation. Ready to embark on an exciting career journey!</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hello,+This is Vedant Kadam+of+text;Second+line+of+text"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=You+are+using+dark+mode&color=FFFFFF" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=You+are+using+light+mode&color=000000" />
+</picture>
 
 - 🌱 I’m currently learning **Django and Machine Learning**
 
@@ -19,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedkadam&show_icons=true&locale=en" alt="vedkadam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedkadam&" alt="vedkadam" /></p>
+
