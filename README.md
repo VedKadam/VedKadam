@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
- 🌱I’m currently learning **Django and Machine Learning**<br>📫 How to reach me **testerved52@gmail.com**
+ 🌱I’m currently learning **Django and Machine Learning**<br>📫 How to reach me **kvedant451@gmail.com**
 
 
 ## 🌐 Socials:
